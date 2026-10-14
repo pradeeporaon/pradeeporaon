@@ -1,21 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24454
-Fork on GitHub
-8416
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Pradeep Oroan</h1>
